@@ -1,0 +1,13 @@
+{
+  "name": "tokoscope",
+  "version": "1.0.0",
+  "description": "Audit, compress, and monitor LLM token usage directly in Copilot. See token counts, waste scores, and cost estimates for any prompt.",
+  "author": {
+    "name": "Tokoscope",
+    "email": "hello@tokoscope.com"
+  },
+  "license": "MIT",
+  "keywords": ["llm", "tokens", "openai", "anthropic", "gemini", "cost", "optimization"],
+  "agents": "agents/",
+  "skills": ["skills/"]
+}
