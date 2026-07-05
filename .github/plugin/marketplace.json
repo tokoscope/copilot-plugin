@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "tokoscope",
-      "source": ".",
+      "source": "/",
       "description": "Analyze prompts for token count, waste score, and cost estimates across OpenAI, Anthropic, and Gemini.",
       "version": "1.0.0"
     }
