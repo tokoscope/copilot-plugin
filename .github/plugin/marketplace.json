@@ -1,0 +1,23 @@
+{
+  "name": "tokoscope-marketplace",
+  "owner": {
+    "name": "Tokoscope",
+    "email": "hello@tokoscope.com"
+  },
+  "metadata": {
+    "description": "LLM token optimization tools for GitHub Copilot CLI.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tokoscope",
+      "description": "Analyze prompts for token count, waste score, and cost estimates across OpenAI, Anthropic, and Gemini. Get compression suggestions and track real usage at app.tokoscope.com.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "owner": "tokoscope",
+        "repo": "copilot-plugin"
+      }
+    }
+  ]
+}
